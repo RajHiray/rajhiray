@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raj Hiray</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Raj Hiray</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Jul 2024 01:10:39 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ME</title>
+      <link>http://localhost:1313/about/me/</link>
+      <pubDate>Wed, 20 Mar 2024 23:16:18 +0530</pubDate>
+      <guid>http://localhost:1313/about/me/</guid>
+      <description>The summary content</description>
+    </item>
+    <item>
+      <title>Title_of_the_post</title>
+      <link>http://localhost:1313/post/title_of_the_post/</link>
+      <pubDate>Wed, 20 Mar 2024 23:16:18 +0530</pubDate>
+      <guid>http://localhost:1313/post/title_of_the_post/</guid>
+      <description>The summary content</description>
+    </item>
+    <item>
+      <title>Readme</title>
+      <link>http://localhost:1313/readme/</link>
+      <pubDate>Wed, 20 Mar 2024 23:08:25 +0530</pubDate>
+      <guid>http://localhost:1313/readme/</guid>
+      <description>About Me I’m a passionate software developer with over 5 years of professional experience. Love to code and design algorithms, large scale distributed systems for real world problems. I’ve been working on technologies like C#,.NET Core, REST API, Windows Services, MS SQL Server, Kusto, SSIS and ADF ETL, Power Automate, Power App, Power BI.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/test/</guid>
+      <description> #contact{&#xD;font-size: 6em;&#xD;text-align: center;&#xD;}&#xD;</description>
+    </item>
+  </channel>
+</rss>
