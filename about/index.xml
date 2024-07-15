@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on Raj Hiray</title>
-    <link>http://localhost:1313/about/</link>
+    <link>https://rajhiray.github.io/about/</link>
     <description>Recent content in Abouts on Raj Hiray</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Jul 2024 01:10:39 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Jul 2024 01:28:55 +0530</lastBuildDate>
+    <atom:link href="https://rajhiray.github.io/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ME</title>
-      <link>http://localhost:1313/about/me/</link>
+      <link>https://rajhiray.github.io/about/me/</link>
       <pubDate>Wed, 20 Mar 2024 23:16:18 +0530</pubDate>
-      <guid>http://localhost:1313/about/me/</guid>
+      <guid>https://rajhiray.github.io/about/me/</guid>
       <description>The summary content</description>
     </item>
   </channel>

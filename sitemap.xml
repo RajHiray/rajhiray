@@ -2,29 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/about/</loc>
-    <lastmod>2024-07-11T01:10:39+05:30</lastmod>
+    <loc>https://rajhiray.github.io/about/</loc>
+    <lastmod>2024-07-12T01:28:55+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/me/</loc>
-    <lastmod>2024-07-11T01:10:39+05:30</lastmod>
+    <loc>https://rajhiray.github.io/about/me/</loc>
+    <lastmod>2024-07-12T01:28:55+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
-    <lastmod>2024-07-11T00:49:49+05:30</lastmod>
+    <loc>https://rajhiray.github.io/post/</loc>
+    <lastmod>2024-07-12T01:28:55+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-07-11T01:10:39+05:30</lastmod>
+    <loc>https://rajhiray.github.io/</loc>
+    <lastmod>2024-07-12T01:28:55+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/title_of_the_post/</loc>
-    <lastmod>2024-07-11T00:49:49+05:30</lastmod>
+    <loc>https://rajhiray.github.io/post/title_of_the_post/</loc>
+    <lastmod>2024-07-12T01:28:55+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/readme/</loc>
-    <lastmod>2024-05-07T00:52:26+05:30</lastmod>
+    <loc>https://rajhiray.github.io/readme/</loc>
+    <lastmod>2024-07-12T01:28:55+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/test/</loc>
-    <lastmod>2024-04-01T21:26:20+05:30</lastmod>
+    <loc>https://rajhiray.github.io/test/</loc>
+    <lastmod>2024-07-12T01:28:55+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://rajhiray.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://rajhiray.github.io/tags/</loc>
   </url>
 </urlset>
